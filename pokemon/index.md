@@ -26,6 +26,19 @@
 | ![](https://www.pokepedia.fr/images/d/df/Lune_Ball.png)Lune Ball|Illimité|
 | ![](https://www.pokepedia.fr/images/c/c9/Copain_Ball.png)Copain Ball|Illimité|
 | ![](https://www.pokepedia.fr/images/9/9d/Niveau_Ball.png)Niveau Ball|Illimité|
+| ![](https://www.pokepedia.fr/images/e/ee/Master_Ball.png)Master Ball|Illimité|
+
+J'accepte aussi les items suivants :
+- Aromates (à discuter)
+- Boue Noire
+- Mouchoir Choix, Lunettes Choix, Bandeau Choix
+- Évoluroc
+- Casque Brut
+- Veste de Combat
+- PP Max
+- Capsule d'Or, Capsule d'Argent
+- Grosses Bottes
+- Pomme Acidulée
 
 ### Pokémon
 
