@@ -38,7 +38,6 @@ J'accepte aussi les items suivants :
 - PP Max
 - Capsule d'Or, Capsule d'Argent
 - Grosses Bottes
-- Pomme Acidulée
 
 ### Pokémon
 
