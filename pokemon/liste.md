@@ -17,3 +17,4 @@
 |Évoli    |x| | | | | | | |
 |Nénupiot | | | | | | | |x|
 |Dynavolt | | | | | | | |x|
+|Kraknoix | | | | | | |x| |
