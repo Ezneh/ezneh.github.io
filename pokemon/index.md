@@ -14,6 +14,7 @@
 
 ### Items
 |Item|Quantité|
+|:---|---:|
 |![](https://www.pokepedia.fr/images/b/b3/R%C3%AAve_Ball.png)Dream Ball|Illimité|
 |![](https://www.pokepedia.fr/images/8/8e/Masse_Ball.png)Masse Ball|Illimité|
 |![](https://www.pokepedia.fr/images/8/80/App%C3%A2t_Ball.png)Appât Ball|Illimité|
