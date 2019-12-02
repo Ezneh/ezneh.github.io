@@ -16,3 +16,4 @@
 |Riolu    |x| | | | | | | |
 |Évoli    |x| | | | | | | |
 |Nénupiot | | | | | | | |x|
+|Dynavolt | | | | | | | |x|
