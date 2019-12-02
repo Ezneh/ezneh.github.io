@@ -1,7 +1,7 @@
 ## Disponible
 
 |Pokémon|Ball|Talent|Nature|IVs|Quantité|Note|
-| :------ | :---: | :---: | :---: | :---: | ---: |:---|
+| :------ | :---: | :---: | :---: | :---: | ---: | :--- |
 |Minisange|![](https://www.pokepedia.fr/images/8/8e/Masse_Ball.png)|Regard Vif|Malin|31/31/31/x/31/31|10|Regard Vif devient Pression|
 |Minisange|![](https://www.pokepedia.fr/images/8/8e/Masse_Ball.png)|Tension|Malin|31/31/31/x/31/31|60+|
 |Fantyrm|![](https://www.pokepedia.fr/images/d/df/Lune_Ball.png)|Infiltration|Naïf|31/31/31/31/31/31|x||
@@ -14,7 +14,7 @@
 
 ### Items
 |Item|Quantité|
-|:---|---:|
+| :--- | ---: |
 |![](https://www.pokepedia.fr/images/b/b3/R%C3%AAve_Ball.png)Dream Ball|Illimité|
 |![](https://www.pokepedia.fr/images/8/8e/Masse_Ball.png)Masse Ball|Illimité|
 |![](https://www.pokepedia.fr/images/8/80/App%C3%A2t_Ball.png)Appât Ball|Illimité|
