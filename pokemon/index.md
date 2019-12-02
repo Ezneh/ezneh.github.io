@@ -1,3 +1,5 @@
+# Pokémon Sword / Shield
+
 ## Disponible
 
 |Pokémon|Ball|Talent|Nature|IVs|Quantité|Note|
