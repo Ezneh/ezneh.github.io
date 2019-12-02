@@ -29,7 +29,7 @@
 
 ### Pokémon
 
-- Tout Pokémon attrapé dans l'une des Balls suivantes (et ne faisant pas partie de cette [liste](https://ezneh.github.io/pokemon/liste.html)
+Tout Pokémon attrapé dans l'une des Balls suivantes (et ne faisant pas partie de cette [liste](https://ezneh.github.io/pokemon/liste.html))
 
 ![](https://www.pokepedia.fr/images/b/b3/R%C3%AAve_Ball.png)
 ![](https://www.pokepedia.fr/images/8/8e/Masse_Ball.png)
