@@ -14,7 +14,7 @@
 |Minisange| |x| | | | | | |
 |Lokhlass | |x| | | | | | |
 |Riolu    |x| | | | | | | |
-|Évoli    |x| | | | | | | |
+|Évoli    |x| | | | |x| | |
 |Nénupiot | | | | | | | |x|
 |Dynavolt | | | | | | | |x|
 |Kraknoix | | | | | | |x| |
