@@ -51,3 +51,4 @@ Tout Pokémon attrapé dans l'une des Balls suivantes (et ne faisant pas partie 
 ![](https://www.pokepedia.fr/images/d/df/Lune_Ball.png)
 ![](https://www.pokepedia.fr/images/c/c9/Copain_Ball.png)
 ![](https://www.pokepedia.fr/images/9/9d/Niveau_Ball.png)
+![](https://www.pokepedia.fr/images/3/34/Ultra_Ball.png)
