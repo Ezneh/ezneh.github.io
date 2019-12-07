@@ -1,5 +1,5 @@
 ---
 layout: default
-permalink: /fr/
+permalink: /pokemon/fr/
 lang: fr
 ---
