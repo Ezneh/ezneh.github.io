@@ -5,6 +5,9 @@ ui:
   search:
     en: Looking for
     fr: Recherche
+  list:
+    en: List
+    fr: Liste
   items:
     en: Items
     fr: Objets
@@ -23,6 +26,9 @@ ui:
   quantity:
     en: Quantity
     fr: Quantité
+  moves:
+    en: Egg Moves
+    fr: Egg Moves
   note:
     en: Note
     fr: Note
