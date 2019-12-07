@@ -1,0 +1,166 @@
+ui:
+  available:
+    en: Available
+    fr: Disponible
+  search:
+    en: Looking for
+    fr: Recherche
+  items:
+    en: Items
+    fr: Objets
+  item:
+    en: Item
+    fr: Objet
+  ability:
+    en: Ability
+    fr: Talent
+  ball:
+    en: Ball
+    fr: Ball
+  nature:
+    en: Nature
+    fr: Nature
+  quantity:
+    en: Quantity
+    fr: Quantité
+  note:
+    en: Note
+    fr: Note
+  
+
+# natures
+nature:
+  adamant:
+    en: Adamant
+    fr: Rigide
+  jolly:
+    en: Jolly
+    fr: Jovial
+  timid:
+    en: Timid
+    fr: Timide
+  modest:
+    en: Modest
+    fr: Modeste
+  bold:
+    en: Bold
+    fr: Assuré
+  impish:
+    en: Impish
+    fr: Malin
+  calm:
+    en: Calm
+    fr: Calme
+  relax:
+    en: Relax
+    fr: Relax
+  careful:
+    en: Careful
+    fr: Prudent
+  brave:
+    en: Brave
+    fr: Brave
+  naive:
+    en: Naive
+    fr: Naïf
+  hasty:
+    en: Hasty
+    fr: Pressé
+  lonely:
+    en: Lonely
+    fr: Solo
+  quiet:
+    en: Quiet
+    fr: Discret
+  sassy:
+    en: Sassy
+    fr: Malpoli
+  
+# pokémon
+pokemon:
+  rotom:
+    en: Rotom
+    fr: Motisma
+  
+# ball should be in items
+ball:
+  dream:
+    en: Dream Ball
+    fr: Rêve Ball
+  moon:
+    en: Moon Ball
+    fr: Lune Ball
+  heavy:
+    en: Heavy Ball
+    fr: Masse Ball
+  speed:
+    en: Speed Ball
+    fr: Speed Ball
+  friend:
+    en: Friend Ball
+    fr: Copain Ball
+  master:
+    en: Master ball
+    fr: Master Ball
+  love:
+    en: Love Ball
+    fr: Love Ball
+  level:
+    en: Level Ball
+    fr: Niveau Ball
+  lure:
+    en: Lure Ball
+    fr: Appât Ball
+  beast:
+    en: Beast Ball
+    fr: Ultra Ball
+
+  
+
+# talent
+
+# items
+items:
+  sludge:
+    en: Black Sludge
+    fr: Boue Noire
+  ability:
+    en: Ability Capsule
+    fr: Pilule Talent
+  boots:
+    en: Heavy-Duty Boots
+    fr: Grosses Bottes
+  
+  eviolite:
+    en: Eviolite
+    fr: Évoluroc
+  helmet:
+    en: Rocky Helmet
+    fr: Casque Brut
+  assault:
+    en: Assault Vest
+    fr: Veste de Combat
+  silver:
+    en: Silver Bottle Cap
+    fr: Capsule d'Argent
+  gold:
+    en: Gold Bottle Cap
+    fr: Capsule d'Or
+  pp:
+    en: PP Max
+    fr: PP Max
+  mint:
+    en: Mints
+    fr: Aromates
+  scarf:
+    en: Choice Scarf
+    fr: Mouchoir Choix
+  specs:
+    en: Choice Specs
+    fr: Lunettes Choix
+  band:
+    en: Choice Band
+    fr: Bandeau Choix
+  wishing:
+    en: Wishing Piece
+    fr: Morceau Vœu

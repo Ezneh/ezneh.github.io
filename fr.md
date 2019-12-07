@@ -1,0 +1,5 @@
+---
+layout: default
+permalink: /fr/
+lang: fr
+---
