@@ -1,5 +1,5 @@
 ---
-layout: pokemon/default
+layout: pokemon
 permalink: /pokemon/en/
 lang: en
 ---
