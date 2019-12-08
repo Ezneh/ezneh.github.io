@@ -1,0 +1,30 @@
+<table style="width:100%;">
+    <tr>
+        <th>Pokémon</th>
+        <th>Ball</th>
+        <th>{{ site.data.translations["ui"]["ability"][page.lang] }}</th>
+        <th>Nature</th>
+        <th>IVs</th>
+        <!--<th>{{ site.data.translations["ui"]["quantity"][page.lang] }}</th>-->
+        <th>Egg moves</th>
+        <th>Note</th>
+    </tr>
+    <tbody>
+        {% for pokemon in site.data.onhands %}
+        <tr>
+            <td>{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
+            <td><img src="{{ site.data.balls[pokemon.ball] }}"/></td>
+            <td>TODO</td>
+            <td>{{ site.data.translations.["nature"][pokemon.nature][page.lang] }}</td>
+            <td>{{ site.data.ivs[pokemon.ivs] }}</td>
+            <td>
+                <ul>
+                    {% for move in pokemon.moves %}
+                    <li>{{ site.data.translations.["moves"][move][page.lang] }}</li>
+                    {% endfor %}
+                </ul>
+            <td>{{ pokemon.note[page.lang] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

@@ -84,47 +84,545 @@ nature:
   
 # pokémon
 pokemon:
+  blipbug:
+    en: Blipbug
+    fr: Larvadar
+  caterpie:
+    en: Caterpie
+    fr: Chenipan
+  grubbin:
+    en: Grubbin
+    fr: Larvibule
+  hoothoot:
+    en: Hoothoot
+    fr: Hoothoot
+  rookidee:
+    en: Rookidee
+    fr: Minisange
+  skowvet:
+    en: Skowvet
+    fr: Rongourmand
+  pidove:
+    en: Pidove
+    fr: Poichigeon
+  thievul:
+    en: Thievul
+    fr: Roublenard
+  zigzagoon:
+    en: Zigzagoon
+    fr: Zigzaton
+  wooloo:
+    en: Wooloo
+    fr: Moumouton
+  lotad:
+    en: Lotad
+    fr: Lombre
+  nuzleaf:
+    en: Nuzleaf
+    fr: Pifeuil
+  chewtle:
+    en: Chewtle
+    fr: Khélocrok
+  purrloin:
+    en: Purrloin
+    fr: Chacripan
+  yamper:
+    en: Yamper
+    fr: Voltoutou
+  bunnelby:
+    en: Bunnelby
+    fr: Sapereau
+  minccino:
+    en: Minccino
+    fr: Chinchidou
+  bounsweet:
+    en: Bounsweet
+    fr: Croquine
+  oddish:
+    en: Oddish
+    fr: Mystherbe
+  budew:
+    en: Budew
+    fr: Rozbouton
+  wingull:
+    en: Wingull
+    fr: Goélise
+  joltik:
+    en: Joltik
+    fr: Statitik
+  electrike:
+    en: Electrike
+    fr: Dynavolt
+  vulpix:
+    en: Vulpix
+    fr: Goupix
+  vanillite:
+    en: Vanillite
+    fr: Sorbébé
+  swinub:
+    en: Swinub
+    fr: Marcacrin
+  delibird:
+    en: Delibird
+    fr: Cadoizo
+  snorunt:
+    en: Snorunt
+    fr: Stalgamin
+  baltoy:
+    en: Baltoy
+    fr: Balbuto
+  mudbray:
+    en: Mudbray
+    fr: Tiboudet
+  dwebble:
+    en: Dwebble
+    fr: Crabicoque
+  golett:
+    en: Golett
+    fr: Gringolem
+  munna:
+    en: Munna
+    fr: Munna
+  natu:
+    en: Natu
+    fr: Natu
+  stufful:
+    en: Stufful
+    fr: Nounourson
+  snover:
+    en: Snover
+    fr: Blizzi
+  krabby:
+    en: Krabby
+    fr: Krabby
+  wooper:
+    en: Wooper
+    fr: Axoloto
+  corphish:
+    en: Corphish
+    fr: Écrapince
+  ninada:
+    en: Nincada
+    fr: Ningale
+  tyrogue:
+    en: Tyrogue
+    fr: Debugant
+  pancham:
+    en: Pancham
+    fr: Pandespiègle
+  klink:
+    en: Klink
+    fr: Tic
+  combee:
+    en: Apitrini
+    fr: Apireine
+  bronzor:
+    en: Bronzor
+    fr: Archéomire
+  ralts:
+    en: Ralts
+    fr: Tarsal
+  drifloon:
+    en: Drifloon
+    fr: Baudrive
+  gossifleur:
+    en: Gossifleur
+    fr: Tournicoton
+  cherubi:
+    en: Cherubi
+    fr: Ceribou
+  stunky:
+    en: Stunky
+    fr: Moufouette
+  tympole:
+    en: Tympole
+    fr: Tritonde
+  duskull:
+    en: Duskull
+    fr: Skelénox
+  machop:
+    en: Machop
+    fr: Machoc
+  gastly:
+    en: Gastly
+    fr: Fantominus
+  magikarp:
+    en: Magikarp
+    fr: Magicarpe
+  goldeen:
+    en: Goldeen
+    fr: Poissirène
+  remoraid:
+    en: Remoraid
+    fr: Rémoraid
+  shellder:
+    en: Shellder
+    fr: Kokiyas
+  feebas:
+    en: Feebas
+    fr: Barpau
+  basculin:
+    en: Basculin
+    fr: Bargantua
+  wishiwashi:
+    en: Wishiwashi
+    fr: Froussardine
+  pyukumuku:
+    en: Pyukumuku
+    fr: Concombaffe
+  trubbish:
+    en: Trubbish
+    fr: Miamiasme
+  sizzlipede:
+    en: Sizzlipede
+    fr: Grillepattes
+  rolycoly:
+    en: Rolycoly
+    fr: Charbi
+  diglett:
+    en: Diglett
+    fr: Taupiqueur
+  drilbur:
+    en: Drilbur
+    fr: Rototaupe
+  roggenrola:
+    en: Roggenrola
+    fr: Nodulithe
+  timburr:
+    en: Timburr
+    fr: Charpenti
+  woobat:
+    en: Woobat
+    fr: Chovsourir
+  noibat:
+    en: Noibat
+    fr: Sonistrelle
+  onix:
+    en: Onix
+    fr: Onix
+  arrokuda:
+    en: Arrokuda
+    fr: Embrochet
+  meowth:
+    en: Meowth
+    fr: Miaouss
+  milcery:
+    en: Milcery
+    fr: Crèmy
+  cutiefly:
+    en: Cutiefly
+    fr: Bombydou
+  ferroseed:
+    en: Ferroseed
+    fr: Grindur
+  pumpkaboo:
+    en: Pumpkaboo
+    fr: Pitrouille
+  pichu:
+    en: Pichu
+    fr: Pichu
+  eevee:
+    en: Eevee
+    fr: Évoli
+  applin:
+    en: Applin
+    fr: Verpom
+  espurr:
+    en: Espurr
+    fr: Psystigri
+  swirlix:
+    en: Swirlix
+    fr: Sucroquin
+  spritzee:
+    en: Spritzee
+    fr: Fluvetin
+  dewpider:
+    en: Dewpider
+    fr: Araqua
+  wynaut:
+    en: Wynaut
+    fr: Qulbutoké
+  farfetchd:
+    en: Farfetch'd
+    fr: Canarticho
+  chinchou:
+    en: Chinchou
+    fr: Loupio
+  croagunk:
+    en: Croagunk
+    fr: Cradopaud
+  scraggy:
+    en: Scraggy
+    fr: Baggiguane
+  stunfisk:
+    en: Stunfisk
+    fr: Limonde
+  shuckle:
+    en: Shuckle
+    fr: Caratroc
+  barboach:
+    en: Barboach
+    fr: Barloche
+  shellos:
+    en: Shellos
+    fr: Sancoki
+  wimpod:
+    en: Wimpod
+    fr: Sovkipou
+  binacle:
+    en: Binacle
+    fr: Opermine
+  corsola:
+    en: Corsola
+    fr: Corayon
+  impidimp:
+    en: Impidimp
+    fr: Grimalin
+  hatenna:
+    en: Hatenna
+    fr: Bibichut
+  salandit:
+    en: Salandit
+    fr: Tritox
+  pawniard:
+    en: Pawniard
+    fr: Scalpion
+  throh:
+    en: Throh
+    fr: Judokrak
+  sawk:
+    en: Sawk
+    fr: Karaclée
+  koffing:
+    en: Koffing
+    fr: Smogo
+  bonsly:
+    en: Bonsly
+    fr: Manzaï
+  cleffa:
+    en: Cleffa
+    fr: Mélo
+  togepi:
+    en: Togepi
+    fr: Togepi
+  munchlax:
+    en: Munchlax
+    fr: Goinfrex
+  cottonee:
+    en: Cottonee
+    fr: Doudouvet
+  rhyhorn:
+    en: Rhyhorn
+    fr: Rhinocorne
+  gothita:
+    en: Gothita
+    fr: Scrutella
+  solosis:
+    en: Solosis
+    fr: Nucléos
+  karrablast:
+    en: Karrablast
+    fr: Carabing
+  shelmet:
+    en: Shelmet
+    fr: Escargaume
+  elgyem:
+    en: Elgyem
+    fr: Lewsor
+  cubchoo:
+    en: Cubchoo
+    fr: Polarhume
+  rufflet:
+    en: Rufflet
+    fr: Furaiglon
+  vullaby:
+    en: Vullaby
+    fr: Vostourno
+  skorupi:
+    en: Skorupi
+    fr: Rapion
+  litwick:
+    en: Litwick
+    fr: Funécire
+  inkay:
+    en: Inkay
+    fr: Sepiatop
+  sneasel:
+    en: Sneasel
+    fr: Farfuret
+  sableye:
+    en: Sableye
+    fr: Ténéfix
+  mawile:
+    en: Mawile
+    fr: Mysdibule
+  maractus:
+    en: Maractus
+    fr: Maracachi
+  sigilyph:
+    en: Sigilyph
+    fr: Cryptéro
+  riolu:
+    en: Riolu
+    fr: Riolu
+  torkoal:
+    en: torkoal
+    fr: Chartor
+  mimikyu:
+    en: Mimikyu
+    fr: Mimiqui
+  cufant:
+    en: Cufant
+    fr: Charibari
+  qwilfish:
+    en: Qwilfish
+    fr: Qwilfish
+  frillish:
+    en: Frillish
+    fr: Viskuse
+  mareanie:
+    en: Mareanie
+    fr: Vorastérie
+  cramorant:
+    en: Cramorant
+    fr: Nigosier
+  toxel:
+    en: Toxel
+    fr: Toxizap
+  silicobra:
+    en: Silicobra
+    fr: Dunaja
+  hippopotas:
+    en: Hippopotas
+    fr: Hippopotas
+  durant:
+    en: Durant
+    fr: Fermite
+  heatmor:
+    en: Heatmor
+    fr: Aflamanoir
+  helioptile:
+    en: Helioptile
+    fr: Galvaran
+  hawlucha:
+    en: Hawlucha
+    fr: Brutalibré
+  trapinch:
+    en: Trapinch
+    fr: Kraknoix
+  axew:
+    en: Axew
+    fr: Coupenotte
+  yamask:
+    en: Yamask
+    fr: Tutafeh
+  honedge:
+    en: Honedge
+    fr: Monorpale
+  ponyta:
+    en: Ponyta
+    fr: Ponyta
+  sinistea:
+    en: Sinistea
+    fr: Théffroi
+  indeedee:
+    en: Indeedee
+    fr: Wimessir
+  phantump:
+    en: Phantump
+    fr: Brocélôme
+  morelull:
+    en: Morelull
+    fr: Spododo
+  oranguru:
+    en: Oranguru
+    fr: Gouroutan
+  passimian:
+    en: Passimian
+    fr: Quartermac
+  morpeko:
+    en: Morpeko
+    fr: Morpeko
+  falinks:
+    en: Falinks
+    fr: Hexadron
+  drampa:
+    en: Drampa
+    fr: Draïeul
+  turtonator:
+    en: Turtonator
+    fr: Boumata
+  togedemaru:
+    en: Togedemaru
+    fr: Togedemaru
+  snom:
+    en: Snom
+    fr: Frissonille
+  clobbopus:
+    en: clobbopus
+    fr: Poulpaf
+  pinchurchin:
+    en: Pinchurchin
+    fr: Wattapik
+  mantyke:
+    en: Mantyke
+    fr: Babimanta
+  wailmer:
+    en: Wailmer
+    fr: Wailmer
+  bergmite:
+    en: Bergmite
+    fr: Grelaçon
+  dhelmise:
+    en: Dhelmise
+    fr: Sinistrail
+  lapras:
+    en: Lapras
+    fr: Lokhlass
+  lunatone:
+    en: Lunatone
+    fr: Séléroc
+  solrock:
+    en: Solrock
+    fr: Solaroc
+  mimejr:
+    en: Mime Jr.
+    fr: Mime Jr.
+  darumaka:
+    en: Darumaka
+    fr: Darumarond
+  stonjourner:
+    en: Stonjourner
+    fr: Dolman
+  eiscue:
+    en: Eiscue
+    fr: Bekaglaçon
+  duraludon:
+    en: Duraludon
+    fr: Duralugon
   rotom:
     en: Rotom
     fr: Motisma
-  
-# ball should be in items
-ball:
-  dream:
-    en: Dream Ball
-    fr: Rêve Ball
-  moon:
-    en: Moon Ball
-    fr: Lune Ball
-  heavy:
-    en: Heavy Ball
-    fr: Masse Ball
-  speed:
-    en: Speed Ball
-    fr: Speed Ball
-  friend:
-    en: Friend Ball
-    fr: Copain Ball
-  master:
-    en: Master ball
-    fr: Master Ball
-  love:
-    en: Love Ball
-    fr: Love Ball
-  level:
-    en: Level Ball
-    fr: Niveau Ball
-  lure:
-    en: Lure Ball
-    fr: Appât Ball
-  beast:
-    en: Beast Ball
-    fr: Ultra Ball
-
-  
-
+  charmander:
+    en: Charmander
+    fr: Salamèche
+  larvitar:
+    en: Larvitar
+    fr: Embrylex
+  deino:
+    en: Deino
+    fr: Solochi
+  goomy:
+    en: Goomy
+    fr: Mucuscule
+  jangmo-o:
+    en: Jangmo-o
+    fr: Bébécaille
+  dreepy:
+    en: Dreepy
+    fr: Fantyrm
 # talent
-
+  
 # items
 items:
   sludge:
@@ -158,3 +656,33 @@ items:
   mint:
     en: Mints
     fr: Aromates
+  dream:
+    en: Dream Ball
+    fr: Rêve Ball
+  moon:
+    en: Moon Ball
+    fr: Lune Ball
+  heavy:
+    en: Heavy Ball
+    fr: Masse Ball
+  speed:
+    en: Speed Ball
+    fr: Speed Ball
+  friend:
+    en: Friend Ball
+    fr: Copain Ball
+  master:
+    en: Master ball
+    fr: Master Ball
+  love:
+    en: Love Ball
+    fr: Love Ball
+  level:
+    en: Level Ball
+    fr: Niveau Ball
+  lure:
+    en: Lure Ball
+    fr: Appât Ball
+  beast:
+    en: Beast Ball
+    fr: Ultra Ball
