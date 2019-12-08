@@ -1,0 +1,18 @@
+<div id="accordion" style="height: 100%;">
+    <h3>{{ site.data.translations["ui"]["items"][page.lang] }}</h3>
+    <div>
+        <ul>
+            {% for item in site.data.lookingfor.["items"] %}
+                <li>{{ site.data.translations.["items"][item][page.lang] }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <h3>Pokémon</h3>
+    <div>
+        <ul>
+            {% for pokemon in site.data.lookingfor.["pokemon"] %}
+                <li>{{ site.data.translations.["pokemon"][pokemon][page.lang] }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
