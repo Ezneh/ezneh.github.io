@@ -15,9 +15,10 @@
 #    love: y
 - name: eevee
   balls:
-    dream: y
-    love: y
-    level: y
+    dream: ha
+    love: ha
+    level: ha
+    moon: ha
 - name: larvitar
   balls:
     friend: y
@@ -51,3 +52,6 @@
 - name: rotom
   balls:
     beast: y
+- name: skorupi
+  balls:
+    level: y
