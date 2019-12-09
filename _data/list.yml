@@ -1,15 +1,18 @@
+# TODO make sure it provides information about HA
+# NOTE values: y / ha. Use those to set background color of every cell
+
 - name: dreepy
   balls:
-    moon: y
-    love: y
+    moon: ha
+    love: ha
 - name: corsola
   balls:
     moon: y
     love: y
-- name: hatenna
-  balls:
-    friend: y
-    love: y
+#- name: hatenna
+#  balls:
+#    friend: y
+#    love: y
 - name: eevee
   balls:
     dream: y
@@ -29,7 +32,7 @@
     heavy: y
 - name: rookidee
   balls:
-    heavy: y
+    heavy: ha
 - name: riolu
   balls:
     dream: y

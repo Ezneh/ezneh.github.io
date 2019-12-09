@@ -1,67 +1,108 @@
-<table  style="width:100%;">
+<h2>{{ site.data.translations['ui']['list_intro'][page.lang] }}</h2>
+<div>
+    <div class="orange left"><img /></div>
+    <div>{{ site.data.translations["ui"]['orange'][page.lang ]}}</div>
+    <div style="margin-top:10px; clear: both;" />
+    <div class="green left"><img /></div>
+    <div>{{ site.data.translations["ui"]['green'][page.lang ]}}</div>
+
+</div>
+<table style="margin-top:10px; width:100%;">
     <tr>
         <th>Pokémon</th>
-        <th><img src="{{ site.data.balls["dream"] }}"></th>
-        <th><img src="{{ site.data.balls["heavy"] }}"></th>
-        <th><img src="{{ site.data.balls["moon"] }}"></th>
-        <th><img src="{{ site.data.balls["lure"] }}"></th>
-        <th><img src="{{ site.data.balls["speed"] }}"></th>
-        <th><img src="{{ site.data.balls["love"] }}"></th>
-        <th><img src="{{ site.data.balls["friend"] }}"></th>
-        <th><img src="{{ site.data.balls["level"] }}"></th>
-        <th><img src="{{ site.data.balls["beast"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["dream"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["heavy"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["moon"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["lure"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["speed"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["love"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["friend"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["level"] }}"></th>
+        <th style="width: 25px;"><img src="{{ site.data.balls["beast"] }}"></th>
     </tr>
     {% for pokemon in site.data.list %}
     <tr>
         <td>{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
+        {% if pokemon.balls["dream"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["dream"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-            {% if pokemon.balls["dream"] %}
-                x
             {% endif %}
         </td>
+        {% if pokemon.balls["heavy"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["heavy"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["heavy"] %}
-                    x
-                {% endif %}
+            {% endif %}
         </td>
+        {% if pokemon.balls["moon"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["moon"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["moon"] %}
-                    x
-                {% endif %}
+            {% endif %}
         </td>
+        {% if pokemon.balls["lure"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["lure"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["lure"] %}
-                    x
-                {% endif %}
+            {% endif %}
         </td>
+        {% if pokemon.balls["speed"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["speed"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["speed"] %}
-                    x
-                {% endif %}
+            {% endif %}
         </td>
+        {% if pokemon.balls["love"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["love"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls.["love"] %}
-                    x
-                {% endif %}
-
+            {% endif %}
         </td>
+        {% if pokemon.balls["friend"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["friend"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["friend"] %}
-                    x
-                {% endif %}
-
+            {% endif %}
         </td>
+        {% if pokemon.balls["level"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["level"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["level"] %}
-                    x
-                {% endif %}
-
+            {% endif %}
         </td>
+        {% if pokemon.balls["beast"] == "y" %}
+        <td class="orange">
+            {% elsif pokemon.balls["beast"] == "ha" %}
+        <td class="green">
+            HA
+            {% else %}
         <td>
-                {% if pokemon.balls["beast"] %}
-                    x
-                {% endif %}
-
+            {% endif %}
         </td>
     </tr>
     {% endfor %}

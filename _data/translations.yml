@@ -2,12 +2,27 @@ ui:
   available:
     en: Available
     fr: Disponible
+  available_intro:
+    en: Below is the list of Pokémon on-hands that I can trade.
+    fr: Ci-dessous la liste des Pokémon disponibles à l'échange.
   search:
     en: Looking for
     fr: Recherche
+  search_intro:
+    en: Below are the list of items and Pokémon I am looking for.
+    fr: Ci-dessous la liste des objets et Pokémon que je recherche.
+  search_pokemon:
+    en: I am looking for any Pokémon in the following balls, that I don't have on my breedable list
+    fr: Je recherche tout Pokémon dans les balls suivantes (n'étant pas en ma possession)
+  search_priority:
+    en: The following Pokémon are in my priority list
+    fr: Les Pokémon suivants sont ceux que je recherche en priorité
   list:
-    en: List
-    fr: Liste
+    en: Breedable
+    fr: En possession
+  list_intro:
+    en: Below is the list of Pokémon I already have. I can also breed one of those on request if your offer interests me.
+    fr: Ci-dessous la liste des Pokémon que je possède déjà. Je peux éventuellement reproduire l'un d'eux si votre offre m'intéresse.
   items:
     en: Items
     fr: Objets
@@ -33,6 +48,12 @@ ui:
     en: Note
     fr: Note
   
+  green:
+    en: Means the Hidden Ability is available
+    fr: Signifie que le talent caché est disponible
+  orange:
+    en: Means the Hidden Ability is not available
+    fr: Signifie que le talent caché n'est pas disponible
 
 # natures
 nature:

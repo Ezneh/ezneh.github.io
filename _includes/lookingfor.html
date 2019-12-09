@@ -1,23 +1,37 @@
+<h2>{{ site.data.translations['ui']['search_intro'][page.lang] }}</h2>
 <div id="accordion" style="height: 100%;">
     <h3>{{ site.data.translations["ui"]["items"][page.lang] }}</h3>
     <div>
         <ul>
             {% for item in site.data.lookingfor.["items"] %}
-                <li>{{ site.data.translations.["items"][item][page.lang] }}</li>
+            <li>{{ site.data.translations.["items"][item][page.lang] }}</li>
             {% endfor %}
         </ul>
     </div>
     <h3>Pokémon</h3>
     <div>
+        <p>{{ site.data.translations["ui"]["search_pokemon"][page.lang] }}</p>
+
+        <div><img src="{{ site.data.balls["dream"] }}">
+            <img src="{{ site.data.balls["heavy"] }}">
+            <img src="{{ site.data.balls["moon"] }}">
+            <img src="{{ site.data.balls["lure"] }}">
+            <img src="{{ site.data.balls["speed"] }}">
+            <img src="{{ site.data.balls["love"] }}">
+            <img src="{{ site.data.balls["friend"] }}">
+            <img src="{{ site.data.balls["level"] }}">
+            <img src="{{ site.data.balls["beast"] }}">
+        </div>
+        <p>{{ site.data.translations["ui"]["search_priority"][page.lang] }}</p>
         <ul>
             {% for pokemon in site.data.lookingfor.["pokemon"] %}
                 <li>
                     {{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}
-                    {% for ball in pokemon.balls %}
-                    <img src="{{ site.data.balls[ball] }}">
-                    {% endfor %}
-                </li>
+            {% for ball in pokemon.balls %}
+            <img src="{{ site.data.balls[ball] }}">
             {% endfor %}
-        </ul>
+            </li>
+            {% endfor %}
+            </ul>
     </div>
 </div>

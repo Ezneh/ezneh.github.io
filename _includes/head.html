@@ -1,11 +1,38 @@
 <head>
     <link rel="stylesheet" href="{{ "/assets/js/jquery-ui-1.12.1/jquery-ui.css" | relative_url }}" type="text/css">
-    <link rel="stylesheet" href="{{ "/assets/js/jquery-ui-1.12.1/jquery-ui.theme.css" | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ "/assets/js/jquery-ui-1.12.1/jquery-ui.theme.css" | relative_url }}"
+        type="text/css">
     <style>
-        table { 
-  border-collapse: collapse;
-  }
-        table, th, td { border: 1px solid black; }
+        table {
+            border-collapse: collapse;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        .orange {
+            width: 25px;
+            height: 25px;
+            background-color: yellow;
+        }
+
+        .green {
+            width: 25px;
+            height: 25px;
+            background-color: greenyellow;
+        }
+
+        div.left {
+            margin-right: 10px;
+            float: left;
+        }
+
+        div.right {
+            float: right;
+        }
     </style>
     <title>
         {{ page.title }}
