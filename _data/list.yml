@@ -24,7 +24,7 @@
 - name: toxel
   balls:
     speed: y
-- name: stunfis
+- name: stunfisk
   balls:
     heavy: y
 - name: rookidee
