@@ -1,0 +1,50 @@
+- name: dreepy
+  balls:
+    moon: y
+    love: y
+- name: corsola
+  balls:
+    moon: y
+    love: y
+- name: hatenna
+  balls:
+    friend: y
+    love: y
+- name: eevee
+  balls:
+    dream: y
+    love: y
+    level: y
+- name: larvitar
+  balls:
+    friend: y
+- name: morpeko
+  balls:
+    love: y
+- name: toxel
+  balls:
+    speed: y
+- name: stunfis
+  balls:
+    heavy: y
+- name: rookidee
+  balls:
+    heavy: y
+- name: riolu
+  balls:
+    dream: y
+- name: lapras
+  balls:
+    heavy: y
+- name: lotad
+  balls:
+    level: y
+- name: trapinch
+  balls:
+    friend: y
+- name: gastly
+  balls:
+    moon: y
+- name: rotom
+  balls:
+    beast: y

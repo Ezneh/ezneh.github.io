@@ -21,4 +21,13 @@ items:
   - mint
 
 pokemon:
-  - mareanie
+  - name: mareanie
+    balls:
+      - lure
+      - love
+      - dream
+  - name: ferroseed
+    balls:
+      - friend
+      - heavy
+      - beast

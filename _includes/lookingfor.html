@@ -11,7 +11,12 @@
     <div>
         <ul>
             {% for pokemon in site.data.lookingfor.["pokemon"] %}
-                <li>{{ site.data.translations.["pokemon"][pokemon][page.lang] }}</li>
+                <li>
+                    {{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}
+                    {% for ball in pokemon.balls %}
+                    <img src="{{ site.data.balls[ball] }}">
+                    {% endfor %}
+                </li>
             {% endfor %}
         </ul>
     </div>

@@ -1,0 +1,68 @@
+<table  style="width:100%;">
+    <tr>
+        <th>Pokémon</th>
+        <th><img src="{{ site.data.balls["dream"] }}"></th>
+        <th><img src="{{ site.data.balls["heavy"] }}"></th>
+        <th><img src="{{ site.data.balls["moon"] }}"></th>
+        <th><img src="{{ site.data.balls["lure"] }}"></th>
+        <th><img src="{{ site.data.balls["speed"] }}"></th>
+        <th><img src="{{ site.data.balls["love"] }}"></th>
+        <th><img src="{{ site.data.balls["friend"] }}"></th>
+        <th><img src="{{ site.data.balls["level"] }}"></th>
+        <th><img src="{{ site.data.balls["beast"] }}"></th>
+    </tr>
+    {% for pokemon in site.data.list %}
+    <tr>
+        <td>{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
+        <td>
+            {% if pokemon.balls["dream"] %}
+                x
+            {% endif %}
+        </td>
+        <td>
+                {% if pokemon.balls["heavy"] %}
+                    x
+                {% endif %}
+        </td>
+        <td>
+                {% if pokemon.balls["moon"] %}
+                    x
+                {% endif %}
+        </td>
+        <td>
+                {% if pokemon.balls["lure"] %}
+                    x
+                {% endif %}
+        </td>
+        <td>
+                {% if pokemon.balls["speed"] %}
+                    x
+                {% endif %}
+        </td>
+        <td>
+                {% if pokemon.balls.["love"] %}
+                    x
+                {% endif %}
+
+        </td>
+        <td>
+                {% if pokemon.balls["friend"] %}
+                    x
+                {% endif %}
+
+        </td>
+        <td>
+                {% if pokemon.balls["level"] %}
+                    x
+                {% endif %}
+
+        </td>
+        <td>
+                {% if pokemon.balls["beast"] %}
+                    x
+                {% endif %}
+
+        </td>
+    </tr>
+    {% endfor %}
+</table>
