@@ -5,6 +5,7 @@
   balls:
     moon: ha
     love: ha
+    beast: ha
 - name: corsola
   balls:
     moon: y
@@ -55,3 +56,18 @@
 - name: skorupi
   balls:
     level: y
+- name: applin
+  balls:
+    moon: ha
+- name: farfetch
+  balls:
+    level: y
+- name: feebas
+  balls:
+    lure: y
+- name: duraludon
+  balls:
+    heavy: y
+- name: mimikyu
+  balls:
+    dream: y
