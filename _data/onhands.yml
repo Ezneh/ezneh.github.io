@@ -1,22 +1,45 @@
 - name: rookidee
   ball: heavy
-  ability: TODO
+  ability:
+    - en: Keen Eye
+      fr: Regard Vif
+    - en: Unnerve
+      fr: Pression
   nature: impish
   ivs: nospa
-  note: 
-    en: en
-    fr: fr
+  moves:
+    - en: Roost
+      fr: Atterrissage
+    - en: Defog
+      fr: Anti-Brume
+    - en: Sky Attack
+      fr: Piqué
+    - en: Rock Smash
+      fr: Éclate-Roc
 - name: koffing
   ball: love
-  ability: TODO 
+  ability: 
+    - en: Levitate
+      fr: Lévitation
+    - en: Neutralizing Gas
+      fr: Gaz inhibiteur
   nature: bold
   ivs: noatk
-  note: 
-    en: en
-    fr: fr
+  moves:
+    - en: Pain Split
+      fr: Balance
+    - en: Curse
+      fr: Malédiction
+  note:
+    en: Few of them are 31/0/31/31/31/31
+    fr: "Quelques-uns ont les IVs suivants : 31/0/31/31/31/31"
 - name: dreepy
   ball: moon
-  ability: TODO 
+  ability:
+    - en: Clear Body
+      fr: Corps Sain
+    - en: Infiltrator
+      fr: Infiltration
   nature: naive
   ivs: random
   note:
