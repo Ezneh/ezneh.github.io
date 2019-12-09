@@ -59,7 +59,7 @@
 - name: applin
   balls:
     moon: ha
-- name: farfetch
+- name: farfetchd
   balls:
     level: y
 - name: feebas
