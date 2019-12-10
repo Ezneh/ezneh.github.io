@@ -71,3 +71,6 @@
 - name: mimikyu
   balls:
     dream: y
+- name: ponyta
+  balls:
+    love: y
