@@ -22,7 +22,7 @@
     </tr>
     {% for pokemon in site.data.list %}
     <tr>
-        <td>{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
+        <td><img src="/assets/img/{{ pokemon.name }}.png" style="vertical-align:middle">{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
         {% if pokemon.balls["dream"] == "y" %}
         <td class="orange">
             {% elsif pokemon.balls["dream"] == "ha" %}

@@ -13,7 +13,7 @@
     <tbody>
         {% for pokemon in site.data.onhands %}
         <tr>
-            <td>{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
+            <td><img src="/assets/img/{{ pokemon.name }}.png" style="vertical-align:middle">{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
             <td><img src="{{ site.data.balls[pokemon.ball] }}"/></td>
             <td>
                 <ul>

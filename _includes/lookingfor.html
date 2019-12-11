@@ -26,9 +26,10 @@
         <ul>
             {% for pokemon in site.data.lookingfor.["pokemon"] %}
                 <li>
+                    <img src="/assets/img/{{ pokemon.name }}.png" style="vertical-align: middle;">
                     {{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}
             {% for ball in pokemon.balls %}
-            <img src="{{ site.data.balls[ball] }}">
+            <img src="{{ site.data.balls[ball] }}" style="vertical-align: middle;">
             {% endfor %}
             </li>
             {% endfor %}
