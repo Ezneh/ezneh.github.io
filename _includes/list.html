@@ -20,7 +20,8 @@
         <th style="width: 25px;"><img src="{{ site.data.balls["level"] }}"></th>
         <th style="width: 25px;"><img src="{{ site.data.balls["beast"] }}"></th>
     </tr>
-    {% for pokemon in site.data.list %}
+    {% assign list = site.data.list | sort_natural: "name" %}
+    {% for pokemon in list %}
     <tr>
         <td><img src="/assets/img/{{ pokemon.name }}.png" style="vertical-align:middle">{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
         {% if pokemon.balls["dream"] == "y" %}

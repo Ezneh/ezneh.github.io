@@ -11,7 +11,8 @@
         <th>Note</th>
     </tr>
     <tbody>
-        {% for pokemon in site.data.onhands %}
+        {% assign onhands = site.data.onhands | sort_natural: "name" %}
+        {% for pokemon in onhands %}
         <tr>
             <td><img src="/assets/img/{{ pokemon.name }}.png" style="vertical-align:middle">{{ site.data.translations.["pokemon"][pokemon.name][page.lang] }}</td>
             <td><img src="{{ site.data.balls[pokemon.ball] }}"/></td>
