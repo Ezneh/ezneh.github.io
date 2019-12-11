@@ -120,8 +120,8 @@ pokemon:
   rookidee:
     en: Rookidee
     fr: Minisange
-  skowvet:
-    en: Skowvet
+  skwovet:
+    en: Skwovet
     fr: Rongourmand
   pidove:
     en: Pidove
@@ -222,7 +222,7 @@ pokemon:
   corphish:
     en: Corphish
     fr: Écrapince
-  ninada:
+  nincada:
     en: Nincada
     fr: Ningale
   tyrogue:
@@ -582,7 +582,7 @@ pokemon:
   clobbopus:
     en: clobbopus
     fr: Poulpaf
-  pinchurchin:
+  pincurchin:
     en: Pinchurchin
     fr: Wattapik
   mantyke:
