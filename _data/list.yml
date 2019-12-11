@@ -71,6 +71,25 @@
 - name: mimikyu
   balls:
     dream: y
+    love: y
 - name: ponyta
   balls:
     love: y
+- name: chewtle
+  balls:
+    lure: ha
+- name: hatenna
+  balls:
+    love: ha
+- name: impidimp
+  balls:
+    love: ha
+- name: darumaka
+  balls:
+    love: ha
+- name: snom
+  balls:
+    moon: ha
+- name: indeedee
+  balls:
+    love: ha
