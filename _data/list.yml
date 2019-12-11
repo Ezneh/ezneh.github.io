@@ -97,3 +97,6 @@
 - name: ferroseed
   balls:
     heavy: y
+- name: goomy
+  balls:
+    dream: ha
