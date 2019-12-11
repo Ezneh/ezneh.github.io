@@ -45,3 +45,10 @@
   note:
     en: All IVs are 30 / 31 with at least 5 at 31
     fr: Tous les IVS sont >= 30 avec au moins 5IVs à 31
+- name: rotom
+  ball: beast
+  ability:
+    - en: Levitate
+    - fr: Lévitation
+  nature: bold
+  ivs: noatk
