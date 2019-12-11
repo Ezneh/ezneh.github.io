@@ -49,6 +49,6 @@
   ball: beast
   ability:
     - en: Levitate
-    - fr: Lévitation
+      fr: Lévitation
   nature: bold
   ivs: noatk
