@@ -11,10 +11,7 @@
   balls:
     moon: y
     love: y
-#- name: hatenna
-#  balls:
-#    friend: y
-#    love: y
+    heavy: y
 - name: eevee
   balls:
     dream: ha
@@ -36,6 +33,7 @@
 - name: rookidee
   balls:
     heavy: ha
+    beast: ha
 - name: riolu
   balls:
     dream: y
@@ -54,6 +52,7 @@
 - name: rotom
   balls:
     beast: y
+    level: y
 - name: skorupi
   balls:
     level: y
@@ -107,6 +106,7 @@
 - name: drilbur
   balls:
     heavy: ha
+    beast: ha
 - name: karrablast
   balls:
     level: ha
