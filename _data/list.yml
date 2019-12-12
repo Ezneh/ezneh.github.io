@@ -64,6 +64,7 @@
     level: y
 - name: feebas
   balls:
+    dream: y
     lure: y
 - name: duraludon
   balls:
