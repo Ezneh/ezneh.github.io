@@ -107,3 +107,6 @@
 - name: drilbur
   balls:
     heavy: ha
+- name: karrablast
+  balls:
+    level: ha

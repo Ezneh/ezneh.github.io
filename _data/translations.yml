@@ -57,6 +57,9 @@ ui:
 
 # natures
 nature:
+  various:
+    en: Various
+    fr: Variable
   adamant:
     en: Adamant
     fr: Rigide
