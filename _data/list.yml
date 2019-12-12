@@ -100,3 +100,6 @@
 - name: goomy
   balls:
     dream: ha
+- name: honedge
+  balls:
+    heavy: y
