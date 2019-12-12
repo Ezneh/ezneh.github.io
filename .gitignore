@@ -2,4 +2,4 @@ _site
 .jekyll-cache
 Gemfile
 Gemfile.lock
-icons.py
+*.py
