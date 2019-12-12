@@ -82,6 +82,10 @@
 - name: hatenna
   balls:
     love: ha
+  nature: bold
+  moves: 
+    en: "Aromatic Mist, Nuzzle, After You, Quash"
+    fr: "Brume Capiteuse, Frotte-Frimousse, À la Queue, Après Vous"
 - name: impidimp
   balls:
     love: ha
@@ -111,3 +115,9 @@
 - name: karrablast
   balls:
     level: ha
+- name: arrokuda
+  balls:
+    moon: ha
+- name: eiscue
+  balls:
+    dream: y
