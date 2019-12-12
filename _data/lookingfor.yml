@@ -35,3 +35,12 @@ pokemon:
       - lure
       - love
       - friend
+  - name: arrokuda
+    balls:
+      - lure
+  - name: wingull
+    balls:
+      - friend
+  - name: yamask
+    balls:
+      - heavy
