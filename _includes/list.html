@@ -8,6 +8,7 @@
 
 </div>
 <table style="margin-top:10px; width:50%;">
+    <thead>
     <tr>
         <th>Pokémon</th>
         <th style="width: 25px;"><img src="{{ site.data.balls["dream"] }}"></th>
@@ -23,6 +24,7 @@
         <th>Egg moves</th>
         <th>Note</th>-->
     </tr>
+    </thead>
     {% assign list = site.data.list | sort_natural: "name" %}
     {% for pokemon in list %}
     <tr>
@@ -39,7 +41,6 @@
                 <td>
             {% endif %}
                 </td>
-
         {% endfor %}
     </tr>
     {% endfor %}
