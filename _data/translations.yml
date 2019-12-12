@@ -54,7 +54,9 @@ ui:
   orange:
     en: Means the Hidden Ability is not available for breeding
     fr: Signifie que le talent caché n'est pas disponible à la reproduction
-
+  blue:
+    en: Means the Pokémon doesn't have a Hidden Ability
+    fr: Signifie que le Pokémon ne possède pas de talent caché
 # natures
 nature:
   various:

@@ -23,13 +23,13 @@
     friend: y
 - name: morpeko
   balls:
-    love: y
+    love: x
 - name: toxel
   balls:
     speed: y
 - name: stunfisk
   balls:
-    heavy: y
+    heavy: x
 - name: rookidee
   balls:
     heavy: ha
@@ -45,14 +45,14 @@
     level: y
 - name: trapinch
   balls:
-    friend: y
+    friend: x
 - name: gastly
   balls:
-    moon: y
+    moon: x
 - name: rotom
   balls:
-    beast: y
-    level: y
+    beast: x
+    level: x
 - name: skorupi
   balls:
     level: y
@@ -71,8 +71,8 @@
     heavy: y
 - name: mimikyu
   balls:
-    dream: y
-    love: y
+    dream: x
+    love: x
 - name: ponyta
   balls:
     love: y
@@ -95,19 +95,20 @@
 - name: snom
   balls:
     moon: ha
+    love: ha
 - name: indeedee
   balls:
     love: ha
 - name: ferroseed
   balls:
-    heavy: y
+    heavy: x
 - name: goomy
   balls:
     dream: ha
 - name: honedge
   balls:
-    heavy: y
-    beast: y
+    heavy: x
+    beast: x
 - name: drilbur
   balls:
     heavy: ha
@@ -120,4 +121,8 @@
     moon: ha
 - name: eiscue
   balls:
-    dream: y
+    dream: x
+  nature: jolly
+  moves:
+    en: "Head Smash, Icicle Crash, Belly Drum, Soak"
+    fr: "Fracass'Tête, Chute Glace, Cognobidon, Détrempage"

@@ -1,10 +1,14 @@
 <h2>{{ site.data.translations['ui']['list_intro'][page.lang] }}</h2>
 <div>
-    <div class="orange left">☐</div>
+    <div class="orange left">✔️</div>
     <div>{{ site.data.translations["ui"]['orange'][page.lang ]}}</div>
     <div style="margin-top:10px; clear: both;" />
-    <div class="green left">☑</div>
+    <div class="green left">✅</div>
     <div>{{ site.data.translations["ui"]['green'][page.lang ]}}</div>
+    <div style="margin-top:10px; clear: both;" />
+    <div class="blue left">☑️</div>
+    <div>{{ site.data.translations["ui"]['blue'][page.lang ]}}</div>
+    <div style="margin-top:10px; clear: both;" />
 
 </div>
 <table id="tlist" style="margin-top:10px; width:85%;">
@@ -33,10 +37,13 @@
         {% for ball in balls %}
             {% if pokemon.balls[ball] == "ha" %}
                 <td class="green">
-                    ☑
+                    ✅
             {% elsif pokemon.balls[ball] == "y" %}
                 <td class="orange">
-                    ☐
+                    ✔️
+            {% elsif pokemon.balls[ball] == "x" %}
+                <td class="blue">
+                    ☑️
             {% else %}
                 <td>
             {% endif %}
