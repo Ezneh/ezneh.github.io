@@ -103,3 +103,6 @@
 - name: honedge
   balls:
     heavy: y
+- name: drilbur
+  balls:
+    heavy: ha

@@ -30,3 +30,8 @@ pokemon:
     balls:
       - friend
       - beast
+  - name: frilish
+    balls:
+      - lure
+      - love
+      - friend
