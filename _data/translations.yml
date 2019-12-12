@@ -49,11 +49,11 @@ ui:
     fr: Note
   
   green:
-    en: Means the Hidden Ability is available
-    fr: Signifie que le talent caché est disponible
+    en: Means the Hidden Ability is available fo breeding
+    fr: Signifie que le talent caché est disponible à la reproduction
   orange:
-    en: Means the Hidden Ability is not available
-    fr: Signifie que le talent caché n'est pas disponible
+    en: Means the Hidden Ability is not available for breeding
+    fr: Signifie que le talent caché n'est pas disponible à la reproduction
 
 # natures
 nature:
