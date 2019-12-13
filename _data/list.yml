@@ -128,3 +128,10 @@
   moves:
     en: "Head Smash, Icicle Crash, Belly Drum, Soak"
     fr: "Fracass'Tête, Chute Glace, Cognobidon, Détrempage"
+- name: helioptile
+  balls:
+    fast: y
+  nature: timid
+  moves:
+    en: "Dracon Tail, Glare, Dragon Rush"
+    fr: "Draco-Queue, Regard Médusant, Draco-Charge"
