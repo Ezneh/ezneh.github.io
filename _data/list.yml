@@ -50,6 +50,7 @@
   balls:
     beast: x
     level: x
+    dream: x
   nature: various
 - name: skorupi
   balls:
@@ -135,3 +136,6 @@
   moves:
     en: "Dracon Tail, Glare, Dragon Rush"
     fr: "Draco-Queue, Regard Médusant, Draco-Charge"
+- name: mawile
+  balls:
+    dream: y
