@@ -4,11 +4,13 @@
     love: ha
     beast: ha
     friend: ha
+
 - name: corsola
   balls:
     moon: y
     love: y
     heavy: y
+
 - name: eevee
   balls:
     dream: ha
@@ -17,71 +19,93 @@
     moon: ha
     beast: ha
     friend: ha
+
 - name: larvitar
   balls:
     friend: y
+
 - name: morpeko
   balls:
     love: x
+
 - name: toxel
   balls:
     speed: y
+
 - name: stunfisk
   balls:
     heavy: x
+
 - name: rookidee
   balls:
     heavy: ha
     beast: ha
+
 - name: riolu
   balls:
     dream: y
+
 - name: lapras
   balls:
     heavy: y
     love: y
+
 - name: lotad
   balls:
     level: y
+    friend: y
+
 - name: trapinch
   balls:
     friend: x
+
 - name: gastly
   balls:
     moon: x
+
 - name: rotom
   balls:
     beast: x
     level: x
     dream: x
   nature: various
+
 - name: skorupi
   balls:
     level: y
+
 - name: applin
   balls:
     moon: ha
     friend: w
+
 - name: farfetchd
   balls:
     level: y
+    
 - name: feebas
   balls:
     dream: y
     lure: y
+
 - name: duraludon
   balls:
     heavy: y
+
 - name: mimikyu
   balls:
     dream: x
     love: x
+
 - name: ponyta
   balls:
     love: y
+
 - name: chewtle
   balls:
     lure: ha
+    friend: ha
+
 - name: hatenna
   balls:
     love: ha
@@ -90,39 +114,49 @@
   moves: 
     en: "Aromatic Mist, Nuzzle, After You, Quash"
     fr: "Brume Capiteuse, Frotte-Frimousse, À la Queue, Après Vous"
+
 - name: impidimp
   balls:
     love: ha
     dream: w
+
 - name: darumaka
   balls:
     love: ha
+
 - name: snom
   balls:
     moon: ha
     love: ha
+
 - name: indeedee
   balls:
     love: ha
+
 - name: ferroseed
   balls:
     heavy: x
     friend: w
+
 - name: goomy
   balls:
     dream: ha
+
 - name: honedge
   balls:
     heavy: x
     beast: x
     dream: w
+
 - name: drilbur
   balls:
     heavy: ha
     beast: ha
+
 - name: karrablast
   balls:
     level: ha
+
 - name: arrokuda
   balls:
     moon: ha
@@ -131,6 +165,7 @@
   moves:
     en: "Thrash, Acupressure, Slash, Night Slash"
     fr: "Mania, Acupression, Tranche, Tranche-Nuit"
+
 - name: eiscue
   balls:
     dream: x
@@ -138,6 +173,7 @@
   moves:
     en: "Head Smash, Icicle Crash, Belly Drum, Soak"
     fr: "Fracass'Tête, Chute Glace, Cognobidon, Détrempage"
+
 - name: helioptile
   balls:
     speed: y
@@ -145,9 +181,11 @@
   moves:
     en: "Dracon Tail, Glare, Dragon Rush"
     fr: "Draco-Queue, Regard Médusant, Draco-Charge"
+
 - name: mawile
   balls:
     dream: y
+
 - name: zigzagoon
   balls:
     love: ha
@@ -155,10 +193,12 @@
   moves:
     en: "Parting Shot, Quick Guard, Knock Off"
     fr: "Dernier Mot, Prévention, Sabotage"
+
 - name: magikarp
   balls:
     lure: ha
   nature: jolly
+
 - name: timburr
   balls:
     lure: y
@@ -166,6 +206,7 @@
   moves:
     en: "Detect, Mach Punch, Power-Up Punch, Defog"
     fr: "Détection, Mach Punch, Poing Boost, Anti-Brume"
+
 - name: mareanie
   balls:
     dream: ha
@@ -174,28 +215,45 @@
   moves:
     en: "Stockpile, Swallow, Haze, Infestation"
     fr: "Stockage, Avale, Buée Noire, Harcèlement"
+
 - name: yamask
   balls:
     dream: x
     heavy: w
     moon: x
+
 - name: wingull
   balls:
     lure: y
     friend: w
+
 - name: hippopotas
   balls:
     heavy: w
     level: w
+
 - name: frillish
   balls:
     lure: w
     friend: w
     dream: w
     love: w
+
 - name: blipbug
   balls:
     friend: y
+
 - name: milcery
   balls:
     dream: ha
+
+- name: melo
+  balls:
+    moon: y
+    
+- name: sinistea
+  balls:
+    moon: y
+- name: cottonee
+  balls:
+    heavy: ha
