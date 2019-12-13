@@ -130,7 +130,7 @@
     fr: "Fracass'Tête, Chute Glace, Cognobidon, Détrempage"
 - name: helioptile
   balls:
-    fast: y
+    speed: y
   nature: timid
   moves:
     en: "Dracon Tail, Glare, Dragon Rush"
