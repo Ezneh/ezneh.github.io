@@ -57,6 +57,9 @@ ui:
   blue:
     en: Means the Pokémon doesn't have a Hidden Ability
     fr: Signifie que le Pokémon ne possède pas de talent caché
+  rose:
+    en: Means this Pokémon is on my wishlist (priority)
+    fr: Signifie que ce Pokémon est dans ma liste de recherche (priorité)
 # natures
 nature:
   various:

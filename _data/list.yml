@@ -59,6 +59,7 @@
 - name: applin
   balls:
     moon: ha
+    friend: w
 - name: farfetchd
   balls:
     level: y
@@ -82,6 +83,7 @@
 - name: hatenna
   balls:
     love: ha
+    dream: ha
   nature: bold
   moves: 
     en: "Aromatic Mist, Nuzzle, After You, Quash"
@@ -89,6 +91,7 @@
 - name: impidimp
   balls:
     love: ha
+    dream: w
 - name: darumaka
   balls:
     love: ha
@@ -102,6 +105,7 @@
 - name: ferroseed
   balls:
     heavy: x
+    friend: w
 - name: goomy
   balls:
     dream: ha
@@ -109,6 +113,7 @@
   balls:
     heavy: x
     beast: x
+    dream: w
 - name: drilbur
   balls:
     heavy: ha
@@ -119,6 +124,7 @@
 - name: arrokuda
   balls:
     moon: ha
+    lure: w
   nature: adamant
   moves:
     en: "Thrash, Acupressure, Slash, Night Slash"
@@ -158,3 +164,29 @@
   moves:
     en: "Detect, Mach Punch, Power-Up Punch, Defog"
     fr: "Détection, Mach Punch, Poing Boost, Anti-Brume"
+- name: mareanie
+  balls:
+    dream: ha
+    lure: w
+  nature: bold
+  moves:
+    en: "Stockpile, Swallow, Haze, Infestation"
+    fr: "Stockage, Avale, Buée Noire, Harcèlement"
+- name: yamask
+  balls:
+    dream: x
+    heavy: w
+- name: wingull
+  balls:
+    lure: y
+    friend: w
+- name: hippopotas
+  balls:
+    heavy: w
+    level: w
+- name: frillish
+  balls:
+    lure: w
+    friend: w
+    dream: w
+    love: w

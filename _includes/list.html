@@ -9,6 +9,10 @@
     <div class="blue left">☑️</div>
     <div>{{ site.data.translations["ui"]['blue'][page.lang ]}}</div>
     <div style="margin-top:10px; clear: both;" />
+    <div class="rose left">❗</div>
+    <div>{{ site.data.translations["ui"]['rose'][page.lang ]}}</div>
+    <div style="margin-top:10px; clear: both;" />
+    
 
 </div>
 <table id="tlist" style="margin-top:10px; width:85%;">
@@ -44,6 +48,9 @@
             {% elsif pokemon.balls[ball] == "x" %}
                 <td class="blue">
                     ☑️
+            {% elsif pokemon.balls[ball] == "w" %}
+                <td class="rose">
+                    ❗
             {% else %}
                 <td>
             {% endif %}

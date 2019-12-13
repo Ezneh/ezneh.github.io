@@ -25,7 +25,6 @@ pokemon:
     balls:
       - lure
       - love
-      - dream
   - name: ferroseed
     balls:
       - friend
