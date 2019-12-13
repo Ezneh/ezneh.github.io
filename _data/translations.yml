@@ -48,6 +48,9 @@ ui:
     en: Note
     fr: Note
   
+  sort:
+    en: "*Click on any column header to sort the table"
+    fr: "*Cliquez sur l'entête d'une colonne pour trier le tableau"
   green:
     en: Means the Hidden Ability is available fo breeding
     fr: Signifie que le talent caché est disponible à la reproduction
