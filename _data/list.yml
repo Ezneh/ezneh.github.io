@@ -16,6 +16,7 @@
     level: ha
     moon: ha
     beast: ha
+    friend: ha
 - name: larvitar
   balls:
     friend: y
@@ -38,6 +39,7 @@
 - name: lapras
   balls:
     heavy: y
+    love: y
 - name: lotad
   balls:
     level: y
@@ -176,6 +178,7 @@
   balls:
     dream: x
     heavy: w
+    moon: x
 - name: wingull
   balls:
     lure: y
@@ -190,3 +193,9 @@
     friend: w
     dream: w
     love: w
+- name: blipbug
+  balls:
+    friend: y
+- name: milcery
+  balls:
+    dream: ha
