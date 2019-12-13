@@ -146,3 +146,7 @@
   moves:
     en: "Parting Shot, Quick Guard, Knock Off"
     fr: "Dernier Mot, Prévention, Sabotage"
+- name: magikarp
+  balls:
+    lure: ha
+  nature: jolly
