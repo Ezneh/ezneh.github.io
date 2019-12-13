@@ -15,6 +15,7 @@
     love: ha
     level: ha
     moon: ha
+    beast: ha
 - name: larvitar
   balls:
     friend: y
@@ -150,3 +151,10 @@
   balls:
     lure: ha
   nature: jolly
+- name: timburr
+  balls:
+    lure: y
+  nature: brave
+  moves:
+    en: "Detect, Mach Punch, Power-Up Punch, Defog"
+    fr: "Détection, Mach Punch, Poing Boost, Anti-Brume"
