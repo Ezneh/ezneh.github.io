@@ -139,3 +139,10 @@
 - name: mawile
   balls:
     dream: y
+- name: zigzagoon
+  balls:
+    love: ha
+  nature: various
+  moves:
+    en: "Parting Shot, Quick Guard, Knock Off"
+    fr: "Dernier Mot, Prévention, Sabotage"
