@@ -77,7 +77,7 @@
 - name: applin
   balls:
     moon: ha
-    friend: w
+    friend: ha
 
 - name: farfetchd
   balls:
@@ -96,6 +96,7 @@
   balls:
     dream: x
     love: x
+    moon: x
 
 - name: ponyta
   balls:
@@ -123,6 +124,10 @@
 - name: darumaka
   balls:
     love: ha
+  nature: jolly
+  moves:
+    en: "Hammer Arm, Power-Up Punch, Take Down, Yawn"
+    fr: "Marto-Poing, Poing Boost, Bélier, Bâillement"
 
 - name: snom
   balls:
@@ -241,19 +246,29 @@
 
 - name: blipbug
   balls:
-    friend: y
+    friend: ha
+    heavy: ha
+  nature: bold
+  moves:
+    en: "Infestation, Supersonic, Sticky Web, Recover"
+    fr: "Harcèlement, Ultrason, Toile Gluante, Soin"
 
 - name: milcery
   balls:
     dream: ha
 
-- name: melo
+- name: cleffa
   balls:
     moon: y
-    
+
 - name: sinistea
   balls:
     moon: y
+
 - name: cottonee
   balls:
     heavy: ha
+
+- name: rolycoly
+  balls:
+    level: ha
