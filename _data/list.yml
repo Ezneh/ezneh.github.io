@@ -19,6 +19,7 @@
     moon: ha
     beast: ha
     friend: ha
+    fast: ha
 
 - name: larvitar
   balls:
@@ -101,6 +102,7 @@
 - name: ponyta
   balls:
     love: y
+    dream: y
 
 - name: chewtle
   balls:
