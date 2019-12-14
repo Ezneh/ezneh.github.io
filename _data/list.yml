@@ -218,6 +218,7 @@
   balls:
     dream: ha
     lure: w
+    beast: ha
   nature: bold
   moves:
     en: "Stockpile, Swallow, Haze, Infestation"
@@ -274,3 +275,10 @@
 - name: rolycoly
   balls:
     level: ha
+- name: charmander
+  balls:
+    beast: ha
+  nature: modest
+  moves:
+    en: "Counter, Belly Drum, Ancient Power, Dragon Tail"
+    fr: "Riposte, Cognobidon, Pouvoir Antique, Draco-Queue"
