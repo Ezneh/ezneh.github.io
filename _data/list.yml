@@ -7,9 +7,10 @@
 
 - name: corsola
   balls:
-    moon: y
-    love: y
-    heavy: y
+    moon: ha
+    love: ha
+    heavy: ha
+    dream: ha
 
 - name: eevee
   balls:
