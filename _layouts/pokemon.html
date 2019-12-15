@@ -46,7 +46,9 @@
             'overflow': 'auto'
         });
         $('table').stickyTableHeaders();
-        $("#tlist").tablesorter();
+        $("#tlist").tablesorter({
+            sortList: [[0, 0]]
+        });
 
         $(function () {
             $("#accordion").accordion({
