@@ -19,7 +19,7 @@
     moon: ha
     beast: ha
     friend: ha
-    fast: ha
+    speed: ha
 
 - name: larvitar
   balls:
