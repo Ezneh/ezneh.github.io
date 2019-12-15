@@ -98,6 +98,7 @@
     dream: x
     love: x
     moon: x
+    friend: x
 
 - name: ponyta
   balls:
@@ -167,7 +168,7 @@
 - name: arrokuda
   balls:
     moon: ha
-    lure: w
+    lure: ha
   nature: adamant
   moves:
     en: "Thrash, Acupressure, Slash, Night Slash"
@@ -251,7 +252,7 @@
   balls:
     friend: ha
     heavy: ha
-  nature: bold
+  nature: various
   moves:
     en: "Infestation, Supersonic, Sticky Web, Recover"
     fr: "Harcèlement, Ultrason, Toile Gluante, Soin"
@@ -259,6 +260,7 @@
 - name: milcery
   balls:
     dream: ha
+    moon: ha
 
 - name: cleffa
   balls:
@@ -275,6 +277,7 @@
 - name: rolycoly
   balls:
     level: ha
+
 - name: charmander
   balls:
     beast: ha
@@ -282,3 +285,7 @@
   moves:
     en: "Counter, Belly Drum, Ancient Power, Dragon Tail"
     fr: "Riposte, Cognobidon, Pouvoir Antique, Draco-Queue"
+
+- name: cramorant
+  balls:
+    lure: y
