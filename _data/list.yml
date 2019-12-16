@@ -70,6 +70,7 @@
     beast: x
     level: x
     dream: x
+    lure: x
   nature: various
 
 - name: skorupi
@@ -295,3 +296,7 @@
 - name: cramorant
   balls:
     lure: y
+- name: roselia
+  balls:
+    friend: ha
+  nature: timid
