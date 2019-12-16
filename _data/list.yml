@@ -146,6 +146,11 @@
   balls:
     heavy: x
     friend: w
+    love: x
+  nature: various
+  moves:
+    en: "Gravity, Knock Off, Leech Seed, Toxik"
+    fr: "Gravité, Sabotage, Vampigraine, Toxik"
 
 - name: goomy
   balls:
