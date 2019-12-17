@@ -227,7 +227,7 @@
 - name: mareanie
   balls:
     dream: ha
-    lure: w
+    lure: ha
     beast: ha
   nature: bold
   moves:
@@ -317,3 +317,7 @@
 - name: deino
   balls:
     moon: x
+
+- name: pawniard
+  balls:
+    moon: ha
