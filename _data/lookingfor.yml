@@ -23,20 +23,15 @@ items:
 pokemon:
   - name: mareanie
     balls:
-      - lure
       - love
   - name: ferroseed
     balls:
-      - friend
       - beast
   - name: frillish
     balls:
       - lure
       - love
       - friend
-  - name: arrokuda
-    balls:
-      - lure
   - name: wingull
     balls:
       - friend

@@ -71,6 +71,7 @@
     level: x
     dream: x
     lure: x
+    speed: w
   nature: various
 
 - name: skorupi
@@ -146,7 +147,7 @@
 - name: ferroseed
   balls:
     heavy: x
-    friend: w
+    friend: x
     love: x
   nature: various
   moves:
@@ -162,6 +163,7 @@
     heavy: x
     beast: x
     dream: w
+    friend: x
 
 - name: drilbur
   balls:
@@ -280,6 +282,7 @@
 - name: cottonee
   balls:
     heavy: ha
+    friend: y
 
 - name: rolycoly
   balls:
@@ -296,7 +299,21 @@
 - name: cramorant
   balls:
     lure: y
+
 - name: budew
   balls:
     friend: ha
   nature: timid
+
+- name: sinistea
+  balls:
+    moon: y
+    love: y
+
+- name: meowth
+  balls:
+    heavy: y
+
+- name: deino
+  balls:
+    moon: x
