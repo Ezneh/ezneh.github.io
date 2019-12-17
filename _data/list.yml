@@ -275,10 +275,6 @@
   balls:
     moon: y
 
-- name: sinistea
-  balls:
-    moon: y
-
 - name: cottonee
   balls:
     heavy: ha
