@@ -85,7 +85,8 @@
 
 - name: farfetchd
   balls:
-    level: y
+    level: ha
+    friend: ha
     
 - name: feebas
   balls:
@@ -237,7 +238,7 @@
 - name: yamask
   balls:
     dream: x
-    heavy: w
+    heavy: x
     moon: x
 
 - name: wingull
@@ -261,6 +262,7 @@
   balls:
     friend: ha
     heavy: ha
+    level: ha
   nature: various
   moves:
     en: "Infestation, Supersonic, Sticky Web, Recover"
@@ -287,6 +289,7 @@
 - name: charmander
   balls:
     beast: ha
+    dream: ha
   nature: modest
   moves:
     en: "Counter, Belly Drum, Ancient Power, Dragon Tail"
@@ -304,7 +307,8 @@
 - name: sinistea
   balls:
     moon: y
-    love: y
+    love: ha
+  nature: timid
 
 - name: meowth
   balls:
@@ -313,7 +317,12 @@
 - name: deino
   balls:
     moon: x
+    dream: x
 
 - name: pawniard
   balls:
     moon: ha
+
+- name: sizzlipede
+  balls:
+    speed: y
