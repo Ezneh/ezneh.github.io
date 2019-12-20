@@ -65,11 +65,21 @@
   balls:
     moon: x
 
+- name: koffing
+  balls:
+    love: ha
+    heavy: ha
+  nature: bold
+  moves:
+    en: "Pain Split, Curse"
+    fr: "Balance, Malédiction"
+
 - name: rotom
   balls:
     beast: x
     level: x
     dream: x
+    love: x
     lure: x
     speed: x
     heavy: w
@@ -284,6 +294,7 @@
 - name: cottonee
   balls:
     heavy: ha
+    love: ha
     friend: y
 
 - name: rolycoly
@@ -331,3 +342,7 @@
 - name: sizzlipede
   balls:
     speed: y
+
+- name: wooper
+  balls:
+    lure: ha
