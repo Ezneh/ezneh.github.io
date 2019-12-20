@@ -72,6 +72,7 @@
     dream: x
     lure: x
     speed: x
+    heavy: w
   nature: various
 
 - name: skorupi
@@ -118,6 +119,7 @@
   balls:
     love: ha
     dream: ha
+    heavy: w
   nature: bold
   moves: 
     en: "Aromatic Mist, Nuzzle, After You, Quash"
@@ -150,6 +152,7 @@
     heavy: x
     friend: x
     love: x
+    lure: w
   nature: various
   moves:
     en: "Gravity, Knock Off, Leech Seed, Toxik"
@@ -253,7 +256,7 @@
 
 - name: frillish
   balls:
-    lure: w
+    lure: y
     friend: w
     dream: w
     love: w
@@ -263,6 +266,7 @@
     friend: ha
     heavy: ha
     level: ha
+    fast: w
   nature: various
   moves:
     en: "Infestation, Supersonic, Sticky Web, Recover"
@@ -322,6 +326,7 @@
 - name: pawniard
   balls:
     moon: ha
+    heavy: w
 
 - name: sizzlipede
   balls:
