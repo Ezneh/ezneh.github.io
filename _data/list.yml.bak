@@ -103,7 +103,6 @@
   balls:
     dream: y
     lure: y
-    level: y
 
 - name: duraludon
   balls:
