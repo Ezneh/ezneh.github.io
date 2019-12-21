@@ -60,6 +60,15 @@
         $("#accordion").accordion({
             heightStyle: "content"
         });
+
+
+        $('#showWanted').change(function () {
+            var rows = $('#tlist tbody tr');
+            rows.show();
+            if (this.checked) {
+                $('#tlist tbody tr').not(':has(td.rose)').hide()
+            }
+        });
     </script>
 
 </body>

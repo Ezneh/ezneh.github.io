@@ -63,6 +63,10 @@ ui:
   rose:
     en: Means this Pokémon is on my wishlist (priority)
     fr: Signifie que ce Pokémon est dans ma liste de recherche (priorité)
+
+  showWanted:
+    en: Show only wanted Pokémon (from my priority list)
+    fr: Afficher uniquement les Pokémon recherchés en priorité
 # natures
 nature:
   various:
