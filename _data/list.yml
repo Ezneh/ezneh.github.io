@@ -54,8 +54,8 @@
 
 - name: lotad
   balls:
-    level: y
-    friend: y
+    level: ha
+    friend: ha
 
 - name: trapinch
   balls:
@@ -171,6 +171,7 @@
 - name: goomy
   balls:
     dream: ha
+    love: ha
 
 - name: honedge
   balls:
@@ -269,7 +270,7 @@
     lure: y
     friend: w
     dream: w
-    love: w
+    love: y
 
 - name: blipbug
   balls:
@@ -346,3 +347,17 @@
 - name: wooper
   balls:
     lure: ha
+
+- name: corphish
+  balls:
+    lure: ha
+  nature: adamant
+
+- name: combee
+  balls:
+    dream: ha
+  nature: impish
+
+- name: dhelmise
+  balls:
+    lure: x
