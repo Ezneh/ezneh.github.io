@@ -25,6 +25,7 @@
 - name: larvitar
   balls:
     friend: y
+    heavy: ha
 
 - name: morpeko
   balls:
@@ -82,6 +83,7 @@
     love: x
     lure: x
     speed: x
+    friend: x
     heavy: w
   nature: various
 
@@ -130,7 +132,7 @@
   balls:
     love: ha
     dream: ha
-    heavy: w
+    heavy: ha
   nature: bold
   moves: 
     en: "Aromatic Mist, Nuzzle, After You, Quash"
@@ -230,6 +232,9 @@
 - name: magikarp
   balls:
     lure: ha
+    love: ha
+    friend: ha
+    level: ha
   nature: jolly
 
 - name: timburr
@@ -245,6 +250,7 @@
     dream: ha
     lure: ha
     beast: ha
+    love: ha
   nature: bold
   moves:
     en: "Stockpile, Swallow, Haze, Infestation"

@@ -25,6 +25,7 @@
 - name: larvitar
   balls:
     friend: y
+    heavy: ha
 
 - name: morpeko
   balls:
@@ -82,6 +83,7 @@
     love: x
     lure: x
     speed: x
+    friend: x
     heavy: w
   nature: various
 
@@ -103,6 +105,7 @@
   balls:
     dream: y
     lure: y
+    level: y
 
 - name: duraludon
   balls:
@@ -129,7 +132,7 @@
   balls:
     love: ha
     dream: ha
-    heavy: w
+    heavy: ha
   nature: bold
   moves: 
     en: "Aromatic Mist, Nuzzle, After You, Quash"
@@ -244,6 +247,7 @@
     dream: ha
     lure: ha
     beast: ha
+    love: ha
   nature: bold
   moves:
     en: "Stockpile, Swallow, Haze, Infestation"
